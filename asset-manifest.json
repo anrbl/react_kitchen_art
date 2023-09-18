@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react_kitchen_art/static/css/main.f7bc0345.css",
+    "main.js": "/react_kitchen_art/static/js/main.9c128845.js",
+    "static/media/mainvisual01.jpg": "/react_kitchen_art/static/media/mainvisual01.d233f776e045e3f6e092.jpg",
+    "static/media/bg02.jpg": "/react_kitchen_art/static/media/bg02.3309d403bd5ab5cd9aae.jpg",
+    "static/media/mainvisual03.jpg": "/react_kitchen_art/static/media/mainvisual03.4d15587e6af2a77e0e99.jpg",
+    "static/media/mainvisual02.jpg": "/react_kitchen_art/static/media/mainvisual02.01e792e2bf24351d5cf4.jpg",
+    "static/media/slick.svg": "/react_kitchen_art/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/react_kitchen_art/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "index.html": "/react_kitchen_art/index.html",
+    "static/media/slick.ttf": "/react_kitchen_art/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/react_kitchen_art/static/media/slick.295183786cd8a1389865.woff",
+    "main.f7bc0345.css.map": "/react_kitchen_art/static/css/main.f7bc0345.css.map",
+    "main.9c128845.js.map": "/react_kitchen_art/static/js/main.9c128845.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7bc0345.css",
+    "static/js/main.9c128845.js"
+  ]
+}
